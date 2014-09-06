@@ -1,7 +1,7 @@
-name: "Benjamin Barad"
-description: "The Personal Homepage for Benjamin Barad"
+name: "Neville Bethel"
+description: "The Personal Homepage for Neville Bethel"
 
-url: "http://benjamin.barad.com"
+url: "http://nevillebethel.com"
 
 paginate: 5
 paginate_path: "blog/page:num"
