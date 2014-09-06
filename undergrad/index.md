@@ -8,7 +8,7 @@ group: undergrad
 <h1 class="page-header text-center"> Contact me </h1>
 These are some highlights of projects I worked on as an undergraute. Mostly videos.
 <video src="eversion_03112010.mp4" width="640" height="400" controls preload></video>
-<video src="Indent_normal.mp4" width="6400" height="400" controls preload></video>
+<video src="Indent_normal.mp4" width="640" height="400" controls preload></video>
  
 
 
