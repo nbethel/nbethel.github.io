@@ -8,6 +8,5 @@ group: home
 
 <h1 class="text-center">Neville Bethel <br><small> Graduate Student </small></h1>
 
-<p class="lead text-justify">
 I am graduate student at UCSF. Nice to meet you. 
-</p>
+

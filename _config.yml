@@ -4,7 +4,7 @@ description: "The Personal Homepage for Neville Bethel"
 url: "http://nevillebethel.com"
 
 paginate: 5
-paginate_path: "blog/page:num"
+paginate_path: "projects/page:num"
 
 permalink: pretty
 highlighter: pygments
