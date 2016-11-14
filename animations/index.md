@@ -22,7 +22,7 @@ Red blood cells are considered hyperelastic, and continually squeeze through cap
 We were interested in testing these deformations, and how red blood cells react to stresses when their elasticity is compromised. 
 
 <br>
-<video src="GRMsearchFull2.m4v" width="640" height="400" controls preload></video>
+<video src="GRMsearchFull2.mp4" width="640" height="400" controls preload></video>
 <br>
 
 
