@@ -9,6 +9,6 @@ group: home
 <h1 class="text-center">Neville Bethel <br><small> Graduate Student </small></h1>
 
 <p>
-I am a second year graduate student at University of California San Francisco. I research in Michael Grabe lab applying continuum theory to 
-proteins in the membrane. Nice to meet you. 
+I am  graduate student in biophysics at the University of California San Francisco. I research in Michael Grabe Lab applying continuum theory 
+and molecular simulation to proteins in the membrane. Nice to meet you. 
 </p>
