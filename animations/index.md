@@ -24,12 +24,13 @@ We were interested in testing these deformations, and how red blood cells react 
 <p style="clear: both;">
 
 Simulated annealing of particles (cells) with different levels of adhesivity: W(Red to Blue), and cohesivity: W(Red to Red) and W(Blue to Blue).
+<br>
 This is from a mini project that I worked on during my first year at UCSF.
-
+<br>
 Left: W(Red to Blue)>W(Blue to Blue) and W(Red to Blue)>W(Red to Red). 
 Middle: W(Blue to Blue)>W(Red to Blue)>W(Red to Red). 
 Right: W(Red to Red)>W(Red to Blue) and W(Blue to Blue)>W(Red to Blue). 
-
+<br>
 It is interesting to see how the self organized configuration by 
 vary by just changing a few parameters. 
 
