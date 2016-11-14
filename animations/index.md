@@ -21,6 +21,11 @@ Nanoindentation of red blood cell simulated using finite element method. This co
 Red blood cells are considered hyperelastic, and continually squeeze through capillaries half the diameter of the cells. 
 We were interested in testing these deformations, and how red blood cells react to stresses when their elasticity is compromised. 
 
+<br>
+<video src="GRMsearchFull2.m4v" width="640" height="400" controls preload></video>
+<br>
+
+
 <h1>Monte Carlo simulations</h1>
 <img src="case1.gif"  style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"/>
 <img src="case2.gif"  style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"/>
