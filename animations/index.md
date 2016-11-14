@@ -14,8 +14,8 @@ Eversion of DNA base into active site. I made the video, not the trajectory. I m
 <video src="Indent_normal.mp4" width="640" height="400" controls preload></video>
 <br>
 Nanoindentation of red blood cell simulated using finite element method.
-<img src="case1.gif" class="img-responsive center-block" alt="simulated annealing 1"/>
-<img src="case2.gif" class="img-responsive center-block" alt="simulated annealing 2"/>
-<img src="case3.gif" class="img-responsive center-block" alt="simulated annealing 3"/>
+<img src="case1.gif"  style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"/>
+<img src="case2.gif"  style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"/>
+<img src="case3.gif"  style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"/>
 
 
