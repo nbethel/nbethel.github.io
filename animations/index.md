@@ -19,4 +19,4 @@ Nanoindentation of red blood cell simulated using finite element method.
 <img src="case2.gif"  style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"/>
 <img src="case3.gif"  style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"/>
 
-
+<img src="migration_tube_close.gif" />
